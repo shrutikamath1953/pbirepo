@@ -26,7 +26,8 @@
                   "Property": "Country"
                 }
               },
-              "queryRef": "financials.Country"
+              "queryRef": "financials.Country",
+              "active": true
             }
           ]
         },
