@@ -1,7 +1,7 @@
 table financials
 	lineageTag: c27f9db4-8bd9-42c0-b437-e8b4f8809a63
 
-	measure totsales = Sum(financials[Sale Price])
+	measure totsales = Sum(financials[Gross Sales])
 		formatString: 0
 		lineageTag: bb3e4751-e7d0-41cb-986d-ee47ba351618
 
